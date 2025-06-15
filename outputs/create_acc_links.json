@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Home",
+    "href": "https://m.rediff.com/"
+  },
+  {
+    "text": "Rediff Home",
+    "href": "https://m.rediff.com/"
+  },
+  {
+    "text": "Sign In",
+    "href": "https://mail.rediff.com/cgi-bin/login.cgi"
+  },
+  {
+    "text": "terms and conditions",
+    "href": "javascript:terms_win()"
+  },
+  {
+    "text": "privacy policy",
+    "href": "http://www.rediff.com/w3c/policy.html"
+  }
+]

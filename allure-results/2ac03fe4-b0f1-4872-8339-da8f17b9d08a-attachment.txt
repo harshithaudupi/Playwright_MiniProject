@@ -1,0 +1,3 @@
+Clicked the Create Account link.
+Total number of links on Create Account page: 5
+Links data stored in C:\Users\2397843\OneDrive - Cognizant\Documents\PlayWright\tekstac\Harshitha_U_2397843_Multiple_Window\outputs\create_acc_links.json

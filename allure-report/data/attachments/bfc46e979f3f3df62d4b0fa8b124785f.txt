@@ -1,0 +1,16 @@
+Clicked the Create Account link.
+Entered Full Name: Hasha Shetty
+Entered Rediffmail ID
+Entered Password
+Retyped Password
+Selected DOB Day
+Selected DOB Month
+Selected DOB Year
+Selected Gender
+Selected Country successfully
+Selected City
+Checked the Alternate ID checkbox.
+Selected Security Question
+Entered Security Answer
+Entered Mother's Maiden Name
+Entered Mobile Number

@@ -1,0 +1,20 @@
+{
+  "name": "miniproject_2397843",
+  "version": "1.0.0",
+  "main": "index.js",
+   "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report",
+    "alluregen": "npx allure generate ./allure-results -o ./allure-report",
+    "allureopen": "npx allure open ./allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.18",
+    "allure-playwright": "^3.2.2"
+  }
+}
